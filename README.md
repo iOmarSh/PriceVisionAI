@@ -321,7 +321,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Omar Samara**
+**Omar Shawky**
 - GitHub: [@iOmarSh](https://github.com/iOmarSh)
 - Project: [PriceVisionAI](https://github.com/iOmarSh/PriceVisionAI)
 
