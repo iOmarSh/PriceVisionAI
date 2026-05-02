@@ -2,7 +2,7 @@
 
 A full-stack machine learning application that predicts California house prices using advanced XGBoost modeling and interactive geospatial visualization.
 
-**Live Demo:** [https://pricevisionai.vercel.app](https://pricevisionai.vercel.app)
+**Live Demo:** [https://pricevisionai.vercel.app](https://price-vision-ai.vercel.app/)
 
 ---
 
